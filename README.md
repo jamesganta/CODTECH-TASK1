@@ -39,3 +39,5 @@ Duration : 6 weeks (Dec 5th 2024 to Jan 20th 2025)
     * Implementing more advanced machine learning algorithms for personalized health recommendations.
 
 This project serves as a basic example of how to use Python for data processing and simple decision-making. It can be further enhanced to create a more comprehensive health monitoring tool.
+
+<img width="1064" alt="Screenshot 1946-10-07 at 9 51 57 PM" src="https://github.com/user-attachments/assets/0cfcc4c9-cd59-4509-918a-9b76c3f28374" />
