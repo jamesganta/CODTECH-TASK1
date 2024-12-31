@@ -1,10 +1,10 @@
 # CODTECH-TASK1
 
-Name : James Timothy Ganta
-Company : CODTECH IT SOLUTIONS
-ID : CT6WDS2703
-Domain : Machine Learning
-Duration : 6 weeks (Dec 5th 2024 to Jan 20th 2025)
+Name : James Timothy Ganta \n
+Company : CODTECH IT SOLUTIONS \n
+ID : CT6WDS2703 \n
+Domain : Machine Learning \n
+Duration : 6 weeks (Dec 5th 2024 to Jan 20th 2025) \n
 
 
 # Overview of the task
